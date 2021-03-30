@@ -1,0 +1,30 @@
+.table-main {
+  display: flex;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+th {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: #000;
+  line-height: 1.4;
+  background-color: #f7f7f7;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+td {
+  font-size: 15px;
+  color: #000;
+  line-height: 1.4;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  text-align: center;
+}

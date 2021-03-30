@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Maria",
+      "surname": "Joana",
+      "email": "joanamaria@gmail.com",
+      "age": "89",
+      "phone": "11995656566",
+      "cpf": "456.879.478-98",
+      "id": 2
+    },
+    {
+      "name": "Tatiane Aparecida da",
+      "surname": "Moraes",
+      "email": "tatiane_213@hotmail.com",
+      "phone": "11996586641",
+      "age": "23",
+      "cpf": "437.262.698-35",
+      "id": 3
+    },
+    {
+      "name": "Kelvin",
+      "surname": "Musselli",
+      "email": "kelvinmusselli22@gmail.com",
+      "phone": "11996586641",
+      "age": "12345",
+      "cpf": "421.199.568-55",
+      "id": 4
+    }
+  ]
+}

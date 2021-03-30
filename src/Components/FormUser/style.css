@@ -1,0 +1,73 @@
+.form-user {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.create-user {
+  display: flex;
+  flex-direction: column;
+  max-width: 360px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.forms {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+input {
+  border-radius: 6px;
+  height: 40px;
+  background: #f7f7f7;
+  border: 1px solid #089;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 5px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cancel {
+  background: none;
+  border: 1px solid #f009;
+  height: 40px;
+  width: 80px;
+  cursor: pointer;
+  font-weight: bolder;
+  margin-right: 5px;
+  border-radius: 6px;
+  outline: none;
+}
+
+.confirm {
+  background: none;
+  border: 1px solid cyan;
+  height: 40px;
+  width: 80px;
+  cursor: pointer;
+  font-weight: bolder;
+  border-radius: 6px;
+  outline: none;
+}
+
+.cancel:active {
+  background: #f009;
+  color: #fff;
+}
+.confirm:active {
+  background: deepskyblue;
+}
